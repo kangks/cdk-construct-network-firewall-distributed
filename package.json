@@ -25,7 +25,7 @@
     "awscdk",
     "cdk"
   ],
-  "author": "Richard Kang <richard@doit-intl.com>",
+  "author": "Richard Kang <richard.kang@hv.io>",
   "license": "MIT",
   "repository": {
     "type": "git",
